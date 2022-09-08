@@ -1,0 +1,11 @@
+D:\資料\自製C#\TestInputDll\bin\Debug\TestInputDll.exe.config
+D:\資料\自製C#\TestInputDll\bin\Debug\TestInputDll.exe
+D:\資料\自製C#\TestInputDll\bin\Debug\TestInputDll.pdb
+D:\資料\自製C#\TestInputDll\obj\Debug\TestInputDll.csproj.AssemblyReference.cache
+D:\資料\自製C#\TestInputDll\obj\Debug\TestInputDll.csproj.SuggestedBindingRedirects.cache
+D:\資料\自製C#\TestInputDll\obj\Debug\TestInputDll.Form1.resources
+D:\資料\自製C#\TestInputDll\obj\Debug\TestInputDll.Properties.Resources.resources
+D:\資料\自製C#\TestInputDll\obj\Debug\TestInputDll.csproj.GenerateResource.cache
+D:\資料\自製C#\TestInputDll\obj\Debug\TestInputDll.csproj.CoreCompileInputs.cache
+D:\資料\自製C#\TestInputDll\obj\Debug\TestInputDll.exe
+D:\資料\自製C#\TestInputDll\obj\Debug\TestInputDll.pdb
